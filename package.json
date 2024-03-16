@@ -1,7 +1,7 @@
 {
-  "homepage": "http://tejaswini-k05.github.io/first-deployment-react",
   "name": "first-deploy",
   "version": "0.1.0",
+  "homepage": "https://tejaswini-k05.github.io/first-deployment-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
